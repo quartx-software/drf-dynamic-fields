@@ -1,6 +1,8 @@
 Dynamic Serializer Fields for Django REST Framework
 ===================================================
 
+Note: This fork is made to clean the version number. And is only temporary as I have already removed this package requirement from API feature branch.
+
 .. image:: https://secure.travis-ci.org/dbrgn/drf-dynamic-fields.png?branch=master
     :alt: Build status
     :target: http://travis-ci.org/dbrgn/drf-dynamic-fields
